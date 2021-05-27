@@ -1,5 +1,3 @@
 # Animation
 
-
-
-![Walkcycle](https://user-images.githubusercontent.com/70280999/119908208-4ea84f80-bf0f-11eb-9d43-d145e3e94339.gif)
+![Walkcycle](https://user-images.githubusercontent.com/70280999/119909427-09d1e800-bf12-11eb-9ba7-60ac1a7475fc.gif)
