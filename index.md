@@ -18,4 +18,5 @@
 
 
 
-[photography](photography.md)
+[Photography](photography.md)
+[About Me](aboutme.md)
