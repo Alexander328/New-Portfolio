@@ -14,10 +14,6 @@
 
 
 
-[Video](video.md)
-
-
-
 [Photography](photography.md)
 
 
